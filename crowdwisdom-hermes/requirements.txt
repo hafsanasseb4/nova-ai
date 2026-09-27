@@ -1,0 +1,8 @@
+pydantic>=2.7,<3
+python-dotenv>=1.0,<2
+httpx>=0.27,<1
+pytest>=8.0,<9
+# Optional provider SDKs. The adapters also work with HTTP APIs directly.
+apify-client>=1.7,<2
+hermes-agent>=0.15,<1
+

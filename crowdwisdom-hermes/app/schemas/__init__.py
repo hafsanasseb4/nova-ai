@@ -1,0 +1,2 @@
+"""Typed pipeline contracts."""
+

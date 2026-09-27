@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/ads/*.json
+data/research/*.json
+data/scripts/*.json
+data/unique_data/*.json
+outputs/videos/*
+outputs/storyboards/*.json
+outputs/reports/*.json
+

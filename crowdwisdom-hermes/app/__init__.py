@@ -1,0 +1,2 @@
+"""CrowdWisdomTrading agent pipeline."""
+
